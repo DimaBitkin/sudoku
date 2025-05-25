@@ -5103,3 +5103,44 @@ WARNING: Unmatched cancel notification for request id 165
 WARNING: Unmatched cancel notification for request id 182
 2025.05.25 17:39:33 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
 2025.05.25 17:39:33 INFO  time: compiled course-work in 6.45s
+мая 25, 2025 6:24:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.05.25 18:25:08 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-server.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.05.25 18:25:08 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-client.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.05.25 18:25:08 INFO  Starting debug proxy for [Main]
+2025.05.25 18:25:10 INFO  Loaded expression compiler in 1 second
+2025.05.25 18:25:10 INFO  Loaded step filter in 121 milliseconds
+2025.05.25 18:25:15 INFO  Loaded all sources and classes in 4 seconds
+2025.05.25 18:25:17 INFO  Initialized Scala 3 decoder in 2 seconds
+2025.05.25 18:25:17 INFO  Trying to attach to remote debuggee VM 127.0.0.1:54358 .
+2025.05.25 18:25:17 INFO  Attaching to debuggee VM succeeded.
+2025.05.25 18:26:29 INFO  Canceling debug proxy for [Main]
+2025.05.25 18:26:29 INFO  Closing debug server tcp://0.0.0.0:54355
+2025.05.25 18:26:43 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-server.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.05.25 18:26:43 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-client.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.05.25 18:26:43 INFO  Starting debug proxy for [Main]
+2025.05.25 18:26:43 INFO  Loaded expression compiler in 2 milliseconds
+2025.05.25 18:26:43 INFO  Loaded step filter in 0 milliseconds
+2025.05.25 18:26:46 INFO  Loaded all sources and classes in 2 seconds
+2025.05.25 18:26:47 INFO  Initialized Scala 3 decoder in 1 second
+2025.05.25 18:26:47 INFO  Trying to attach to remote debuggee VM 127.0.0.1:54406 .
+2025.05.25 18:26:47 INFO  Attaching to debuggee VM succeeded.
+2025.05.25 18:26:52 INFO  Canceling debug proxy for [Main]
+2025.05.25 18:26:52 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-server.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.05.25 18:26:52 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-client.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.05.25 18:26:52 INFO  Starting debug proxy for [Main]
+2025.05.25 18:26:52 INFO  Loaded expression compiler in 1 millisecond
+2025.05.25 18:26:52 INFO  Loaded step filter in 0 milliseconds
+2025.05.25 18:26:54 INFO  Loaded all sources and classes in 1 second
+2025.05.25 18:26:54 INFO  Initialized Scala 3 decoder in 949 milliseconds
+2025.05.25 18:26:54 INFO  Trying to attach to remote debuggee VM 127.0.0.1:54415 .
+2025.05.25 18:26:54 INFO  Attaching to debuggee VM succeeded.
+2025.05.25 18:27:10 INFO  Hot code replace triggered
+2025.05.25 18:27:15 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 18:27:18 INFO  time: code lens generation in 1.78s
+2025.05.25 18:27:25 INFO  Canceling debug proxy for [Main]
+2025.05.25 18:27:25 INFO  Closing debug server tcp://0.0.0.0:54413
+2025.05.25 18:27:26 INFO  no build target found for /java.base/java/io/FileInputStream.java. Using fallback presentation compiler.
+2025.05.25 18:27:44 INFO  no build target found for /java.base/java/io/FileInputStream.java. Using fallback presentation compiler.
+мая 25, 2025 6:42:15 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-22\r_empty-definition_(course-work)_12-45-27-304.md)
