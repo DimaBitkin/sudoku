@@ -10,3 +10,10 @@ lazy val root = project
       "org.typelevel" %% "cats-core" % "2.12.0"
     )
   )
+import scala.scalanative.build._
+
+nativeConfig ~= { c =>
+  c.withSourceLevelDebuggingConfig(_.enableAll) // enable generation of debug information
+  .withOptimize(false)  // disable Scala Native optimizer
+  .withMode(Mode.debug) // compile using LLVM without optimizations
+}

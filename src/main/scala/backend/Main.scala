@@ -6,7 +6,6 @@ import backend.core.PuzzleGenerator
 import backend.core.Solver
 import backend.ui.SudokuCLI
 
-
 object Main extends App {
   new SudokuCLI().run()
 

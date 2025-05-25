@@ -20,6 +20,7 @@ class GameService {
 
   /** Генерация новой головоломки */
   def generateNewPuzzle(): Option[Board] = {
+    
     val puzzleOpt = PuzzleGenerator.generatePuzzle(difficulty)
     currentPuzzle = puzzleOpt
     initialPuzzle = puzzleOpt  // сохранить исходную

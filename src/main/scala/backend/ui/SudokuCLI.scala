@@ -71,6 +71,7 @@ class SudokuCLI {
       case None =>
         println("Не удалось сгенерировать головоломку.")
     }
+
   }
 
   private def showPuzzle(): Unit = {
