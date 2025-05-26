@@ -5144,3 +5144,603 @@ INFO: Unsupported notification method: $/setTrace
 2025.05.25 18:27:44 INFO  no build target found for /java.base/java/io/FileInputStream.java. Using fallback presentation compiler.
 мая 25, 2025 6:42:15 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
 WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-22\r_empty-definition_(course-work)_12-45-27-304.md)
+мая 25, 2025 6:46:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 604
+мая 25, 2025 6:46:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 605
+мая 25, 2025 6:46:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 607
+мая 25, 2025 6:47:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 614
+мая 25, 2025 6:47:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 615
+мая 25, 2025 6:47:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 617
+мая 25, 2025 6:47:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 619
+2025.05.25 19:03:16 INFO  compiling course-work (1 scala source)
+2025.05.25 19:03:18 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.25 19:03:18 INFO  time: compiled course-work in 2.01s
+мая 25, 2025 7:05:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.05.25 19:07:38 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.25 19:07:38 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.25 19:07:38 WARN  no build target for: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt
+2025.05.25 19:07:38 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+мая 25, 2025 7:07:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 689
+2025.05.25 19:07:38 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.25 19:07:38 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.25 19:07:39 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.25 19:07:40 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.25 19:07:40 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.25 19:07:39 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.25 19:07:39 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.25 19:07:40 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.25 19:07:40 WARN  no build target for: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt
+2025.05.25 19:07:40 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.25 19:07:42 INFO  running 'C:\Program Files\BellSoft\LibericaJDK-21\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\dima-\AppData\Local\Temp\metals13750788641830576137\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.05.25 19:07:46 INFO  [info] welcome to sbt 1.9.7 (BellSoft Java 21.0.7)
+2025.05.25 19:07:48 INFO  [info] loading settings for project course-work-build-build-build from metals.sbt ...
+2025.05.25 19:07:50 INFO  [info] loading project definition from C:\Users\dima-\OneDrive\Desktop\course-work\course-work\project\project\project
+2025.05.25 19:07:52 INFO  [info] loading settings for project course-work-build-build from metals.sbt ...
+2025.05.25 19:07:52 INFO  [info] loading project definition from C:\Users\dima-\OneDrive\Desktop\course-work\course-work\project\project
+2025.05.25 19:07:58 INFO  [success] Generated .bloop\course-work-build-build.json
+2025.05.25 19:07:58 INFO  [success] Total time: 5 s, completed 25 мая 2025 г., 19:07:58
+2025.05.25 19:07:58 INFO  [info] loading settings for project course-work-build from metals.sbt,plugins.sbt ...
+2025.05.25 19:07:59 INFO  [info] loading project definition from C:\Users\dima-\OneDrive\Desktop\course-work\course-work\project
+2025.05.25 19:08:08 INFO  [warn] 
+2025.05.25 19:08:08 INFO  [warn] 	Note: Some unresolved dependencies have extra attributes.  Check that these dependencies exist with the requested attributes.
+2025.05.25 19:08:08 INFO  [warn] 		com.typesafe.sbt:sbt-native-packager:1.10.0 (sbtVersion=1.0, scalaVersion=2.12)
+2025.05.25 19:08:08 INFO  [warn] 
+2025.05.25 19:08:08 INFO  [warn] 	Note: Unresolved dependencies path:
+2025.05.25 19:08:08 INFO  [error] Couldn't run bloopGenerate. The issue could be caused by failing to compile the project.
+2025.05.25 19:08:08 INFO  [error] sbt.librarymanagement.ResolveException: Error downloading com.typesafe.sbt:sbt-native-packager;sbtVersion=1.0;scalaVersion=2.12:1.10.0
+2025.05.25 19:08:08 INFO  [error]   Not found
+2025.05.25 19:08:08 INFO  [error]   Not found
+2025.05.25 19:08:08 INFO  [error]   not found: https://repo1.maven.org/maven2/com/typesafe/sbt/sbt-native-packager_2.12_1.0/1.10.0/sbt-native-packager-1.10.0.pom
+2025.05.25 19:08:08 INFO  [error]   not found: C:\Users\dima-\.ivy2\localcom.typesafe.sbt\sbt-native-packager\scala_2.12\sbt_1.0\1.10.0\ivys\ivy.xml
+2025.05.25 19:08:08 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.sbt/sbt-native-packager/scala_2.12/sbt_1.0/1.10.0/ivys/ivy.xml
+2025.05.25 19:08:08 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbt/sbt-native-packager/scala_2.12/sbt_1.0/1.10.0/ivys/ivy.xml
+2025.05.25 19:08:08 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.unresolvedWarningOrThrow(CoursierDependencyResolution.scala:344)
+2025.05.25 19:08:08 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.$anonfun$update$38(CoursierDependencyResolution.scala:313)
+2025.05.25 19:08:08 INFO  [error] 	at scala.util.Either$LeftProjection.map(Either.scala:573)
+2025.05.25 19:08:08 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.update(CoursierDependencyResolution.scala:313)
+2025.05.25 19:08:08 INFO  [error] 	at sbt.librarymanagement.DependencyResolution.update(DependencyResolution.scala:60)
+2025.05.25 19:08:08 INFO  [error] 	at sbt.internal.LibraryManagement$.resolve$1(LibraryManagement.scala:60)
+2025.05.25 19:08:08 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$12(LibraryManagement.scala:134)
+2025.05.25 19:08:08 INFO  [error] 	at sbt.util.Tracked$.$anonfun$lastOutput$1(Tracked.scala:74)
+2025.05.25 19:08:08 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$20(LibraryManagement.scala:147)
+2025.05.25 19:08:08 INFO  [error] 	at scala.util.control.Exception$Catch.apply(Exception.scala:228)
+2025.05.25 19:08:08 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11(LibraryManagement.scala:147)
+2025.05.25 19:08:08 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11$adapted(LibraryManagement.scala:128)
+2025.05.25 19:08:08 INFO  [error] 	at sbt.util.Tracked$.$anonfun$inputChangedW$1(Tracked.scala:220)
+2025.05.25 19:08:08 INFO  [error] 	at sbt.internal.LibraryManagement$.cachedUpdate(LibraryManagement.scala:161)
+2025.05.25 19:08:08 INFO  [error] 	at sbt.Classpaths$.$anonfun$updateTask0$1(Defaults.scala:3801)
+2025.05.25 19:08:08 INFO  [error] 	at scala.Function1.$anonfun$compose$1(Function1.scala:49)
+2025.05.25 19:08:08 INFO  [error] 	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:63)
+2025.05.25 19:08:08 INFO  [error] 	at sbt.std.Transform$$anon$4.work(Transform.scala:69)
+2025.05.25 19:08:08 INFO  [error] 	at sbt.Execute.$anonfun$submit$2(Execute.scala:283)
+2025.05.25 19:08:08 INFO  [error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:24)
+2025.05.25 19:08:08 INFO  [error] 	at sbt.Execute.work(Execute.scala:292)
+2025.05.25 19:08:08 INFO  [error] 	at sbt.Execute.$anonfun$submit$1(Execute.scala:283)
+2025.05.25 19:08:08 INFO  [error] 	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)
+2025.05.25 19:08:08 INFO  [error] 	at sbt.CompletionService$$anon$2.call(CompletionService.scala:65)
+2025.05.25 19:08:08 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+2025.05.25 19:08:08 INFO  [error] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+2025.05.25 19:08:08 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+2025.05.25 19:08:08 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+2025.05.25 19:08:08 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+2025.05.25 19:08:08 INFO  [error] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025.05.25 19:08:08 INFO  [error] (update) sbt.librarymanagement.ResolveException: Error downloading com.typesafe.sbt:sbt-native-packager;sbtVersion=1.0;scalaVersion=2.12:1.10.0
+2025.05.25 19:08:08 INFO  [error]   Not found
+2025.05.25 19:08:08 INFO  [error]   Not found
+2025.05.25 19:08:08 INFO  [error]   not found: https://repo1.maven.org/maven2/com/typesafe/sbt/sbt-native-packager_2.12_1.0/1.10.0/sbt-native-packager-1.10.0.pom
+2025.05.25 19:08:08 INFO  [error]   not found: C:\Users\dima-\.ivy2\localcom.typesafe.sbt\sbt-native-packager\scala_2.12\sbt_1.0\1.10.0\ivys\ivy.xml
+2025.05.25 19:08:08 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.sbt/sbt-native-packager/scala_2.12/sbt_1.0/1.10.0/ivys/ivy.xml
+2025.05.25 19:08:08 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbt/sbt-native-packager/scala_2.12/sbt_1.0/1.10.0/ivys/ivy.xml
+2025.05.25 19:08:08 INFO  [error] Total time: 8 s, completed 25 мая 2025 г., 19:08:08
+2025.05.25 19:08:08 INFO  [warn] Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)
+мая 25, 2025 7:08:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.05.25 19:08:12 INFO  [warn] 
+2025.05.25 19:08:12 INFO  [warn] 	Note: Some unresolved dependencies have extra attributes.  Check that these dependencies exist with the requested attributes.
+2025.05.25 19:08:12 INFO  [warn] 		com.typesafe.sbt:sbt-native-packager:1.10.0 (sbtVersion=1.0, scalaVersion=2.12)
+2025.05.25 19:08:12 INFO  [warn] 
+2025.05.25 19:08:12 INFO  [warn] 	Note: Unresolved dependencies path:
+2025.05.25 19:08:12 INFO  [error] sbt.librarymanagement.ResolveException: Error downloading com.typesafe.sbt:sbt-native-packager;sbtVersion=1.0;scalaVersion=2.12:1.10.0
+2025.05.25 19:08:12 INFO  [error]   Not found
+2025.05.25 19:08:12 INFO  [error]   Not found
+2025.05.25 19:08:12 INFO  [error]   not found: https://repo1.maven.org/maven2/com/typesafe/sbt/sbt-native-packager_2.12_1.0/1.10.0/sbt-native-packager-1.10.0.pom
+2025.05.25 19:08:12 INFO  [error]   not found: C:\Users\dima-\.ivy2\localcom.typesafe.sbt\sbt-native-packager\scala_2.12\sbt_1.0\1.10.0\ivys\ivy.xml
+2025.05.25 19:08:12 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.sbt/sbt-native-packager/scala_2.12/sbt_1.0/1.10.0/ivys/ivy.xml
+2025.05.25 19:08:12 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbt/sbt-native-packager/scala_2.12/sbt_1.0/1.10.0/ivys/ivy.xml
+2025.05.25 19:08:12 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.unresolvedWarningOrThrow(CoursierDependencyResolution.scala:344)
+2025.05.25 19:08:12 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.$anonfun$update$38(CoursierDependencyResolution.scala:313)
+2025.05.25 19:08:12 INFO  [error] 	at scala.util.Either$LeftProjection.map(Either.scala:573)
+2025.05.25 19:08:12 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.update(CoursierDependencyResolution.scala:313)
+2025.05.25 19:08:12 INFO  [error] 	at sbt.librarymanagement.DependencyResolution.update(DependencyResolution.scala:60)
+2025.05.25 19:08:12 INFO  [error] 	at sbt.internal.LibraryManagement$.resolve$1(LibraryManagement.scala:60)
+2025.05.25 19:08:12 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$12(LibraryManagement.scala:134)
+2025.05.25 19:08:12 INFO  [error] 	at sbt.util.Tracked$.$anonfun$lastOutput$1(Tracked.scala:74)
+2025.05.25 19:08:12 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$20(LibraryManagement.scala:147)
+2025.05.25 19:08:12 INFO  [error] 	at scala.util.control.Exception$Catch.apply(Exception.scala:228)
+2025.05.25 19:08:12 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11(LibraryManagement.scala:147)
+2025.05.25 19:08:12 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11$adapted(LibraryManagement.scala:128)
+2025.05.25 19:08:12 INFO  [error] 	at sbt.util.Tracked$.$anonfun$inputChangedW$1(Tracked.scala:220)
+2025.05.25 19:08:12 INFO  [error] 	at sbt.internal.LibraryManagement$.cachedUpdate(LibraryManagement.scala:161)
+2025.05.25 19:08:12 INFO  [error] 	at sbt.Classpaths$.$anonfun$updateTask0$1(Defaults.scala:3801)
+2025.05.25 19:08:12 INFO  [error] 	at scala.Function1.$anonfun$compose$1(Function1.scala:49)
+2025.05.25 19:08:12 INFO  [error] 	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:63)
+2025.05.25 19:08:12 INFO  [error] 	at sbt.std.Transform$$anon$4.work(Transform.scala:69)
+2025.05.25 19:08:12 INFO  [error] 	at sbt.Execute.$anonfun$submit$2(Execute.scala:283)
+2025.05.25 19:08:12 INFO  [error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:24)
+2025.05.25 19:08:12 INFO  [error] 	at sbt.Execute.work(Execute.scala:292)
+2025.05.25 19:08:12 INFO  [error] 	at sbt.Execute.$anonfun$submit$1(Execute.scala:283)
+2025.05.25 19:08:12 INFO  [error] 	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)
+2025.05.25 19:08:12 INFO  [error] 	at sbt.CompletionService$$anon$2.call(CompletionService.scala:65)
+2025.05.25 19:08:12 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+2025.05.25 19:08:12 INFO  [error] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+2025.05.25 19:08:12 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+2025.05.25 19:08:12 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+2025.05.25 19:08:12 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+2025.05.25 19:08:12 INFO  [error] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025.05.25 19:08:12 INFO  [error] (update) sbt.librarymanagement.ResolveException: Error downloading com.typesafe.sbt:sbt-native-packager;sbtVersion=1.0;scalaVersion=2.12:1.10.0
+2025.05.25 19:08:12 INFO  [error]   Not found
+2025.05.25 19:08:12 INFO  [error]   Not found
+2025.05.25 19:08:12 INFO  [error]   not found: https://repo1.maven.org/maven2/com/typesafe/sbt/sbt-native-packager_2.12_1.0/1.10.0/sbt-native-packager-1.10.0.pom
+2025.05.25 19:08:12 INFO  [error]   not found: C:\Users\dima-\.ivy2\localcom.typesafe.sbt\sbt-native-packager\scala_2.12\sbt_1.0\1.10.0\ivys\ivy.xml
+2025.05.25 19:08:12 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.sbt/sbt-native-packager/scala_2.12/sbt_1.0/1.10.0/ivys/ivy.xml
+2025.05.25 19:08:12 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbt/sbt-native-packager/scala_2.12/sbt_1.0/1.10.0/ivys/ivy.xml
+2025.05.25 19:08:12 INFO  [warn] Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)
+2025.05.25 19:08:12 INFO  time: ran 'sbt bloopInstall' in 30s
+2025.05.25 19:08:12 ERROR sbt command failed: C:\Program Files\BellSoft\LibericaJDK-21\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\dima-\AppData\Local\Temp\metals13750788641830576137\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+2025.05.25 19:08:12 INFO  Disconnecting from Bloop session...
+2025.05.25 19:08:12 INFO  Shut down connection with build server.
+2025.05.25 19:08:12 INFO  Shut down connection with build server.
+2025.05.25 19:08:12 INFO  Shut down connection with build server.
+2025.05.25 19:08:12 INFO  Attempting to connect to the build server...
+2025.05.25 19:08:12 INFO  Found a Bloop server running
+2025.05.25 19:08:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.25 19:08:12 INFO  Attempting to connect to the build server...
+2025.05.25 19:08:12 INFO  Found a Bloop server running
+2025.05.25 19:08:12 INFO  Attempting to connect to the build server...
+2025.05.25 19:08:12 INFO  Found a Bloop server running
+2025.05.25 19:08:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\project\project\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.25 19:08:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\project\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.25 19:08:12 INFO  time: Connected to build server in 0.29s
+2025.05.25 19:08:12 INFO  Connected to Build server: Bloop v2.0.10
+мая 25, 2025 7:08:12 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 25, 2025 7:08:13 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 25, 2025 7:08:13 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 25, 2025 7:08:13 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 25, 2025 7:08:13 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+2025.05.25 19:08:12 INFO  time: Imported build in 0.14s
+2025.05.25 19:08:17 INFO  time: indexed workspace in 4.41s
+2025.05.25 19:08:17 WARN  no build target for: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt
+2025.05.25 19:08:17 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.25 19:08:17 INFO  BSP server: No class, trait or object is defined in the compilation unit.
+The incremental compiler cannot record the dependency information in such case.
+Some errors like unused import referring to a non-existent class might not be reported.
+
+2025.05.25 19:08:28 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.25 19:08:28 WARN  no build target for: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt
+2025.05.25 19:08:28 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.25 19:08:28 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.25 19:08:28 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.25 19:08:31 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.25 19:08:33 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-server.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.05.25 19:08:33 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-client.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.05.25 19:08:33 INFO  Starting debug proxy for [Main]
+2025.05.25 19:08:33 INFO  Loaded expression compiler in 1 millisecond
+2025.05.25 19:08:33 INFO  Loaded step filter in 0 milliseconds
+2025.05.25 19:08:37 INFO  Loaded all sources and classes in 3 seconds
+2025.05.25 19:08:37 INFO  Initialized Scala 3 decoder in 989 milliseconds
+2025.05.25 19:08:37 INFO  Trying to attach to remote debuggee VM 127.0.0.1:58288 .
+2025.05.25 19:08:37 INFO  Attaching to debuggee VM succeeded.
+2025.05.25 19:09:04 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-server.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.05.25 19:09:04 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-client.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.05.25 19:09:04 INFO  Starting debug proxy for [Main]
+2025.05.25 19:09:04 INFO  Loaded expression compiler in 1 millisecond
+2025.05.25 19:09:04 INFO  Loaded step filter in 0 milliseconds
+2025.05.25 19:09:06 INFO  Loaded all sources and classes in 1 second
+2025.05.25 19:09:06 INFO  Initialized Scala 3 decoder in 551 milliseconds
+2025.05.25 19:09:06 INFO  Trying to attach to remote debuggee VM 127.0.0.1:58382 .
+2025.05.25 19:09:06 INFO  Attaching to debuggee VM succeeded.
+2025.05.25 19:09:21 INFO  no build target found for /java.base/java/lang/Object.java. Using fallback presentation compiler.
+2025.05.25 19:09:27 INFO  no build target found for /java.base/java/lang/Object.java. Using fallback presentation compiler.
+2025.05.25 19:09:44 INFO  time: code lens generation in 1.41s
+2025.05.25 19:09:52 INFO  no build target found for /java.base/java/lang/String.java. Using fallback presentation compiler.
+2025.05.25 19:09:54 INFO  no build target found for /java.base/java/lang/StringBuilder.java. Using fallback presentation compiler.
+2025.05.25 19:09:54 INFO  time: code lens generation in 1.59s
+2025.05.25 19:09:54 INFO  no build target found for /java.base/java/lang/AbstractStringBuilder.java. Using fallback presentation compiler.
+2025.05.25 19:09:57 INFO  no build target found for /java.base/java/lang/Object.java. Using fallback presentation compiler.
+2025.05.25 19:10:00 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:10:00 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:10:00 INFO  no build target found for /java.base/java/lang/AbstractStringBuilder.java. Using fallback presentation compiler.
+2025.05.25 19:10:03 INFO  no build target found for /java.base/java/io/FileInputStream.java. Using fallback presentation compiler.
+2025.05.25 19:10:03 INFO  no build target found for /java.base/java/io/FileInputStream.java. Using fallback presentation compiler.
+2025.05.25 19:10:05 INFO  no build target found for /java.base/java/io/FileInputStream.java. Using fallback presentation compiler.
+2025.05.25 19:10:08 INFO  Canceling debug proxy for [Main]
+2025.05.25 19:10:08 INFO  Closing debug server tcp://0.0.0.0:58280
+мая 25, 2025 7:10:08 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Read data from io exception: java.net.SocketException: Socket closed (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-23\r_Read data from io ex..._16-27-56-393.md)
+2025.05.25 19:10:12 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:10:16 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:10:19 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:10:23 INFO  no build target found for /java.base/java/io/FileInputStream.java. Using fallback presentation compiler.
+2025.05.25 19:10:24 INFO  no build target found for /java.base/java/io/FileInputStream.java. Using fallback presentation compiler.
+2025.05.25 19:10:29 INFO  Canceling debug proxy for [Main]
+2025.05.25 19:10:29 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-server.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.05.25 19:10:29 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-client.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.05.25 19:10:29 INFO  Starting debug proxy for [Main]
+2025.05.25 19:10:29 INFO  Loaded expression compiler in 1 millisecond
+2025.05.25 19:10:29 INFO  Loaded step filter in 0 milliseconds
+2025.05.25 19:10:31 INFO  Loaded all sources and classes in 1 second
+2025.05.25 19:10:31 INFO  Initialized Scala 3 decoder in 650 milliseconds
+2025.05.25 19:10:31 INFO  Trying to attach to remote debuggee VM 127.0.0.1:58655 .
+2025.05.25 19:10:31 INFO  Attaching to debuggee VM succeeded.
+2025.05.25 19:10:59 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:10:59 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:11:03 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:11:04 INFO  no build target found for /java.base/java/io/FileInputStream.java. Using fallback presentation compiler.
+2025.05.25 19:11:11 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:11:14 INFO  no build target found for /java.base/java/io/FileInputStream.java. Using fallback presentation compiler.
+2025.05.25 19:11:17 INFO  no build target found for /java.base/java/io/FileInputStream.java. Using fallback presentation compiler.
+2025.05.25 19:11:17 INFO  no build target found for /java.base/java/io/FileInputStream.java. Using fallback presentation compiler.
+2025.05.25 19:11:19 INFO  no build target found for /java.base/java/io/FileInputStream.java. Using fallback presentation compiler.
+2025.05.25 19:11:22 INFO  Canceling debug proxy for [Main]
+2025.05.25 19:11:22 INFO  Closing debug server tcp://0.0.0.0:58653
+2025.05.25 19:11:34 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$: There is nothing to run or test in the current file.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$.<clinit>(DiscoveryFailures.scala:62)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$runOrTestFile$2(DebugDiscovery.scala:314)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugDiscovery.runOrTestFile(DebugDiscovery.scala:256)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$debugDiscovery$1(DebugDiscovery.scala:176)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2025.05.25 19:11:38 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-server.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.05.25 19:11:38 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-client.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.05.25 19:11:38 INFO  Starting debug proxy for [Main]
+2025.05.25 19:11:38 INFO  Loaded expression compiler in 0 milliseconds
+2025.05.25 19:11:38 INFO  Loaded step filter in 1 millisecond
+2025.05.25 19:11:40 INFO  Loaded all sources and classes in 2 seconds
+2025.05.25 19:11:40 INFO  Initialized Scala 3 decoder in 649 milliseconds
+2025.05.25 19:11:40 INFO  Trying to attach to remote debuggee VM 127.0.0.1:58702 .
+2025.05.25 19:11:40 INFO  Attaching to debuggee VM succeeded.
+2025.05.25 19:15:55 INFO  Canceling debug proxy for [Main]
+2025.05.25 19:15:55 INFO  Closing debug server tcp://0.0.0.0:58700
+2025.05.25 19:15:56 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-server.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.05.25 19:15:56 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-client.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.05.25 19:15:57 INFO  Starting debug proxy for [Main]
+2025.05.25 19:15:57 INFO  Loaded expression compiler in 0 milliseconds
+2025.05.25 19:15:57 INFO  Loaded step filter in 1 millisecond
+2025.05.25 19:15:58 INFO  Loaded all sources and classes in 1 second
+2025.05.25 19:15:58 INFO  Initialized Scala 3 decoder in 315 milliseconds
+2025.05.25 19:15:58 INFO  Trying to attach to remote debuggee VM 127.0.0.1:58831 .
+2025.05.25 19:15:58 INFO  Attaching to debuggee VM succeeded.
+2025.05.25 19:17:06 INFO  Closing debug server tcp://0.0.0.0:58829
+2025.05.25 19:17:06 INFO  Canceling debug proxy for [Main]
+2025.05.25 19:17:09 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-server.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.05.25 19:17:09 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-client.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.05.25 19:17:09 INFO  Starting debug proxy for [Main]
+2025.05.25 19:17:09 INFO  Loaded expression compiler in 0 milliseconds
+2025.05.25 19:17:09 INFO  Loaded step filter in 0 milliseconds
+2025.05.25 19:17:11 INFO  Loaded all sources and classes in 1 second
+2025.05.25 19:17:11 INFO  Initialized Scala 3 decoder in 719 milliseconds
+2025.05.25 19:17:11 INFO  Trying to attach to remote debuggee VM 127.0.0.1:58913 .
+2025.05.25 19:17:11 INFO  Attaching to debuggee VM succeeded.
+2025.05.25 19:31:13 INFO  Canceling debug proxy for [Main]
+2025.05.25 19:31:13 INFO  Closing debug server tcp://0.0.0.0:58911
+2025.05.25 19:31:23 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-server.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.05.25 19:31:23 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\dap-client.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.05.25 19:31:23 INFO  Starting debug proxy for [Main]
+2025.05.25 19:31:23 INFO  Loaded expression compiler in 0 milliseconds
+2025.05.25 19:31:23 INFO  Loaded step filter in 0 milliseconds
+2025.05.25 19:31:25 INFO  Loaded all sources and classes in 1 second
+2025.05.25 19:31:25 INFO  Initialized Scala 3 decoder in 597 milliseconds
+2025.05.25 19:31:25 INFO  Trying to attach to remote debuggee VM 127.0.0.1:60266 .
+2025.05.25 19:31:25 INFO  Attaching to debuggee VM succeeded.
+2025.05.25 19:31:37 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:37 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:40 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:40 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:40 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:42 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:42 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:42 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:44 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:44 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:46 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:46 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:46 INFO  no build target found for /java.base/java/lang/ThreadLocal.java. Using fallback presentation compiler.
+2025.05.25 19:31:47 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:47 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:47 INFO  no build target found for /java.base/java/lang/InheritableThreadLocal.java. Using fallback presentation compiler.
+2025.05.25 19:31:48 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:48 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:48 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:50 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:50 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:51 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:51 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:51 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:51 INFO  no build target found for /java.base/java/lang/ThreadLocal.java. Using fallback presentation compiler.
+2025.05.25 19:31:51 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:51 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:52 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:52 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:52 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:53 INFO  no build target found for /java.base/java/lang/ref/Reference.java. Using fallback presentation compiler.
+2025.05.25 19:31:54 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:54 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:54 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:54 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:55 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:55 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:55 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:55 INFO  no build target found for /java.base/java/lang/ThreadLocal.java. Using fallback presentation compiler.
+2025.05.25 19:31:55 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:56 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:56 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:58 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:58 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:58 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:59 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:59 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:31:59 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:32:00 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:32:00 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:32:00 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:32:00 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:32:01 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:32:01 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:32:01 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:32:01 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:32:02 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:32:02 INFO  no build target found for /java.base/java/io/BufferedReader.java. Using fallback presentation compiler.
+2025.05.25 19:32:09 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.io.StdIn$.readLine()
+2025.05.25 19:32:09 INFO  no build target found for /java.base/java/io/InputStreamReader.java. Using fallback presentation compiler.
+2025.05.25 19:32:15 INFO  Canceling debug proxy for [Main]
+2025.05.25 19:32:15 INFO  Closing debug server tcp://0.0.0.0:60264
+2025.05.25 19:32:33 INFO  no build target found for /java.base/java/io/FileInputStream.java. Using fallback presentation compiler.
+2025.05.25 19:35:31 INFO  compiling course-work (1 scala source)
+2025.05.25 19:35:35 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.25 19:35:35 INFO  time: compiled course-work in 3.31s
+2025.05.25 19:39:08 INFO  compiling course-work (1 scala source)
+2025.05.25 19:39:10 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.25 19:39:10 INFO  time: compiled course-work in 1.67s
+2025.05.25 19:39:14 INFO  compiling course-work (2 scala sources)
+2025.05.25 19:39:17 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.25 19:39:17 INFO  time: compiled course-work in 2.63s
+мая 25, 2025 7:39:49 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_16-16-24-668.md)
+2025.05.25 19:55:25 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\src\main\scala\backend\core\PuzzleGenerator.scala
+2025.05.25 19:55:25 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\src\main\scala\backend\core\PuzzleGenerator.scala
+2025.05.25 19:55:25 INFO  compiling course-work (1 scala source)
+2025.05.25 19:55:26 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\src\main\scala\backend\core\PuzzleGenerator.scala
+2025.05.25 19:55:28 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.25 19:55:28 INFO  time: compiled course-work in 3.32s
+2025.05.25 19:59:14 INFO  compiling course-work (1 scala source)
+2025.05.25 19:59:16 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.25 19:59:16 INFO  time: compiled course-work in 2.23s
+мая 25, 2025 8:03:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2930
+мая 25, 2025 8:03:36 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_16-09-09-817.md)
+2025.05.25 20:03:37 INFO  compiling course-work (1 scala source)
+2025.05.25 20:03:39 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.25 20:03:39 INFO  time: compiled course-work in 2.15s
+2025.05.25 20:03:53 INFO  compiling course-work (2 scala sources)
+2025.05.25 20:03:53 INFO  time: compiled course-work in 0.96s
+2025.05.25 20:03:59 INFO  compiling course-work (2 scala sources)
+2025.05.25 20:03:59 INFO  time: compiled course-work in 0.78s
+мая 25, 2025 8:04:21 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_16-09-38-023.md)
+2025.05.25 20:04:21 INFO  compiling course-work (2 scala sources)
+2025.05.25 20:04:21 INFO  time: compiled course-work in 0.6s
+мая 25, 2025 8:04:46 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_16-09-38-023.md)
+2025.05.25 20:04:47 INFO  compiling course-work (2 scala sources)
+2025.05.25 20:04:49 INFO  time: compiled course-work in 1.27s
+2025.05.25 21:11:12 INFO  compiling course-work (1 scala source)
+2025.05.25 21:11:15 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.25 21:11:15 INFO  time: compiled course-work in 2.69s
+2025.05.25 21:11:15 INFO  compiling course-work (5 scala sources)
+2025.05.25 21:11:18 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.25 21:11:18 INFO  time: compiled course-work in 3.17s
+Exception in thread "pool-16-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Exception in thread "pool-16-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+мая 25, 2025 9:14:25 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-22\r_empty-definition_(course-work)_12-45-27-304.md)
+мая 25, 2025 9:14:27 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-22\r_empty-definition_(course-work)_12-45-27-304.md)
+мая 25, 2025 9:14:27 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-22\r_empty-definition_(course-work)_12-45-27-304.md)
+мая 25, 2025 9:14:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3521
+Exception in thread "pool-16-thread-3" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+мая 25, 2025 9:14:27 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-22\r_empty-definition_(course-work)_12-45-27-304.md)
+2025.05.25 21:36:28 INFO  Shutting down server
+2025.05.25 21:36:28 INFO  shutting down Metals
+2025.05.25 21:36:29 INFO  Shut down connection with build server.
+2025.05.25 21:36:29 INFO  Shut down connection with build server.
+2025.05.25 21:36:29 INFO  Shut down connection with build server.
+2025.05.25 21:36:28 INFO  Exiting server
+2025.05.26 10:01:19 INFO  Started: Metals version 1.5.3 in folders 'C:\Users\dima-\OneDrive\Desktop\course-work\course-work' for client Visual Studio Code 1.100.2.
+2025.05.26 10:01:20 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\src\main\scala\backend\core\GameService.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.26 10:01:20 INFO  Attempting to connect to the build server...
+2025.05.26 10:01:20 INFO  No running Bloop server found, starting one.
+2025.05.26 10:01:21 INFO  Starting compilation server
+2025.05.26 10:01:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.26 10:01:23 INFO  Attempting to connect to the build server...
+2025.05.26 10:01:23 INFO  Found a Bloop server running
+2025.05.26 10:01:23 INFO  Attempting to connect to the build server...
+2025.05.26 10:01:23 INFO  Found a Bloop server running
+2025.05.26 10:01:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\project\project\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.26 10:01:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\project\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.26 10:01:23 INFO  time: Connected to build server in 3.02s
+2025.05.26 10:01:23 INFO  Connected to Build server: Bloop v2.0.10
+мая 26, 2025 10:01:23 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 26, 2025 10:01:23 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 26, 2025 10:01:23 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 26, 2025 10:01:23 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 26, 2025 10:01:23 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+2025.05.26 10:01:23 INFO  time: Imported build in 0.12s
+2025.05.26 10:01:27 INFO  time: indexed workspace in 3.27s
+2025.05.26 10:01:27 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 10:01:27 INFO  BSP server: No class, trait or object is defined in the compilation unit.
+The incremental compiler cannot record the dependency information in such case.
+Some errors like unused import referring to a non-existent class might not be reported.
+
+2025.05.26 10:29:16 INFO  compiling course-work (1 scala source)
+2025.05.26 10:29:19 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 10:29:19 INFO  time: compiled course-work in 2.92s
+2025.05.26 10:29:20 INFO  compiling course-work (1 scala source)
+2025.05.26 10:29:20 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 10:29:20 INFO  time: compiled course-work in 0.72s
+2025.05.26 10:31:28 INFO  compiling course-work (1 scala source)
+2025.05.26 10:31:28 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 10:31:28 INFO  time: compiled course-work in 0.68s
+2025.05.26 10:31:45 INFO  compiling course-work (1 scala source)
+2025.05.26 10:31:45 INFO  time: compiled course-work in 0.3s
+2025.05.26 10:31:56 INFO  compiling course-work (1 scala source)
+2025.05.26 10:31:56 INFO  time: compiled course-work in 0.55s
+мая 26, 2025 10:32:54 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-22\r_empty-definition_(course-work)_12-45-27-304.md)
+2025.05.26 10:38:37 INFO  compiling course-work (1 scala source)
+2025.05.26 10:38:38 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 10:38:38 INFO  time: compiled course-work in 1.51s
+2025.05.26 10:39:05 INFO  compiling course-work (1 scala source)
+2025.05.26 10:39:05 INFO  time: compiled course-work in 0.73s
+2025.05.26 11:08:04 INFO  compiling course-work (1 scala source)
+2025.05.26 11:08:06 INFO  time: compiled course-work in 1.14s
+2025.05.26 11:08:06 INFO  compiling course-work (1 scala source)
+2025.05.26 11:08:06 INFO  time: compiled course-work in 0.51s
+2025.05.26 11:08:21 INFO  time: compiled course-work in 9ms
+мая 26, 2025 11:09:22 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-22\r_empty-definition_(course-work)_12-45-27-304.md)
+2025.05.26 11:09:32 INFO  compiling course-work (1 scala source)
+2025.05.26 11:09:32 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 11:09:32 INFO  time: compiled course-work in 0.54s
+2025.05.26 11:09:43 INFO  compiling course-work (1 scala source)
+2025.05.26 11:09:43 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 11:09:43 INFO  time: compiled course-work in 0.35s
+мая 26, 2025 11:10:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1411
+2025.05.26 11:10:28 INFO  compiling course-work (1 scala source)
+2025.05.26 11:10:28 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 11:10:28 INFO  time: compiled course-work in 0.36s
+2025.05.26 11:11:04 INFO  compiling course-work (1 scala source)
+2025.05.26 11:11:04 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 11:11:04 INFO  time: compiled course-work in 0.38s
+2025.05.26 11:11:16 INFO  compiling course-work (1 scala source)
+2025.05.26 11:11:16 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 11:11:16 INFO  time: compiled course-work in 0.29s
+2025.05.26 11:11:29 INFO  compiling course-work (1 scala source)
+2025.05.26 11:11:29 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 11:11:29 INFO  time: compiled course-work in 0.27s
+2025.05.26 11:11:59 INFO  compiling course-work (1 scala source)
+2025.05.26 11:11:59 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 11:11:59 INFO  time: compiled course-work in 0.26s
+мая 26, 2025 11:12:01 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-22\r_empty-definition_(course-work)_12-45-27-304.md)
+2025.05.26 11:12:01 INFO  compiling course-work (1 scala source)
+2025.05.26 11:12:01 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 11:12:01 INFO  time: compiled course-work in 0.25s
+2025.05.26 11:12:02 INFO  time: compiled course-work in 5ms
+2025.05.26 11:12:13 INFO  compiling course-work (1 scala source)
+2025.05.26 11:12:13 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 11:12:13 INFO  time: compiled course-work in 0.27s
+2025.05.26 11:14:15 INFO  compiling course-work (1 scala source)
+2025.05.26 11:14:15 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 11:14:15 INFO  time: compiled course-work in 0.45s
+мая 26, 2025 11:14:17 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_19-42-18-641.md)
+мая 26, 2025 11:14:48 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_19-42-18-641.md)
+2025.05.26 11:14:49 INFO  compiling course-work (1 scala source)
+2025.05.26 11:14:49 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 11:14:49 INFO  time: compiled course-work in 0.28s
+мая 26, 2025 11:18:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2260
+мая 26, 2025 11:20:10 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_16-09-09-817.md)
+мая 26, 2025 11:20:10 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_16-09-09-817.md)
+мая 26, 2025 11:20:10 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_16-09-09-817.md)
+мая 26, 2025 11:20:10 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_16-09-09-817.md)
+мая 26, 2025 11:21:07 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_16-09-09-817.md)
+мая 26, 2025 11:21:09 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_16-09-09-817.md)
+мая 26, 2025 11:21:09 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_16-09-09-817.md)
+2025.05.26 11:21:09 INFO  compiling course-work (1 scala source)
+2025.05.26 11:21:09 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 11:21:09 INFO  time: compiled course-work in 0.28s
+мая 26, 2025 11:21:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2405
+Exception in thread "pool-6-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+мая 26, 2025 11:21:12 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_16-09-09-817.md)
+2025.05.26 11:21:56 INFO  compiling course-work (1 scala source)
+2025.05.26 11:21:56 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 11:21:56 INFO  time: compiled course-work in 0.27s
+2025.05.26 11:25:16 INFO  compiling course-work (1 scala source)
+2025.05.26 11:25:16 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 11:25:16 INFO  time: compiled course-work in 0.37s
+2025.05.26 11:25:52 INFO  compiling course-work (1 scala source)
+2025.05.26 11:25:52 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 11:25:52 INFO  time: compiled course-work in 0.27s
+2025.05.26 11:26:42 INFO  compiling course-work (1 scala source)
+2025.05.26 11:26:42 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 11:26:42 INFO  time: compiled course-work in 0.28s
+мая 26, 2025 11:26:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3142
+2025.05.26 11:27:11 INFO  compiling course-work (1 scala source)
+2025.05.26 11:27:11 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 11:27:11 INFO  time: compiled course-work in 0.18s
+мая 26, 2025 11:27:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.05.26 11:27:33 INFO  compiling course-work (1 scala source)

@@ -3,6 +3,7 @@ package backend.ui
 import scala.io.StdIn.readLine
 import backend.core.GameService
 import backend.model._
+import scala.util.Try
 
 class SudokuCLI {
 
@@ -44,22 +45,19 @@ class SudokuCLI {
   }
 
   private def chooseDifficulty(): Unit = {
-    var valid = false
-    var input = ""
+    val validLevels = Set("easy", "medium", "hard")
 
-    while (!valid) {
-      println("Введите уровень сложности (easy, medium, hard):")
-      input = readLine().trim.toLowerCase
-      input match {
-        case "easy" | "medium" | "hard" =>
-          valid = true
-        case _ =>
-          println("Некорректный уровень сложности. Пожалуйста, введите: easy, medium или hard.")
+    Iterator
+      .continually {
+        println("Введите уровень сложности (easy, medium, hard):")
+        readLine().trim.toLowerCase
       }
-    }
-
-    gameService.setDifficulty(input)
-    println(s"Уровень сложности установлен на: $input")
+      .dropWhile(!validLevels.contains(_))
+      .take(1)
+      .foreach { level =>
+        gameService.setDifficulty(level)
+        println(s"Уровень сложности установлен на: $level")
+      }
   }
 
   private def generatePuzzle(): Unit = {
@@ -103,76 +101,73 @@ class SudokuCLI {
 
   private def inputSingleCell(): Unit = {
     gameService.getCurrentPuzzle match {
+      case None =>
+        println("Сначала нужно сгенерировать головоломку.")
+
       case Some(_) =>
         println("Режим ввода по одной ячейке.")
         println("Введите: row col value (1-9), или value = 0 для удаления.")
         println("Введите 'exit', чтобы выйти из режима.")
 
-        var continue = true
-        while (continue) {
-          print("-> ")
-          val input = readLine().trim
-          if (input.equalsIgnoreCase("exit")) {
-            continue = false
-          } else {
+        Iterator
+          .continually {
+            print("-> ")
+            readLine().trim
+          }
+          .takeWhile(input => !input.equalsIgnoreCase("exit"))
+          .foreach { input =>
             val parts = input.split("\\s+")
             if (parts.length != 3) {
               println("Неверный формат. Пример: 3 4 7")
             } else {
-              try {
-                val Array(rStr, cStr, vStr) = parts
-                val (row, col, value) = (rStr.toInt - 1, cStr.toInt - 1, vStr.toInt)
-
-                if (row >= 0 && row < 9 && col >= 0 && col < 9 && value >= 0 && value <= 9) {
-                  if (!gameService.isCellEditable(row, col)) {
+              parseInput(parts) match {
+                case Some((row, col, value)) =>
+                  if (!inBounds(row, col, value)) {
+                    println("Координаты или значение вне допустимого диапазона.")
+                  } else if (!gameService.isCellEditable(row, col)) {
                     println("Эта клетка недоступна для изменения.")
                   } else {
-                    if (value == 0) {
-                      // Удаление значения
-                      val updated = gameService.updateUserCell(row, col, 0)
-                      if (updated) println("Значение удалено.")
-                    } else {
-                      // Проверка перед записью
-                      gameService.getCurrentSolution match {
-                        case Some(solution) =>
-                          solution.get(row, col) match {
-                            case Filled(expectedValue) =>
-                              if (value != expectedValue) {
-                                println("Неверное значение!")
-                                //  Не записываем неправильное значение
-                              } else {
-                                //  Верно — записываем
-                                val updated = gameService.updateUserCell(row, col, value)
-                                if (updated) println("Значение записано.")
-                              }
-                            case Empty =>
-                              println("Ошибка: в решении эта клетка пуста.")
-                          }
-                        case None =>
-                          println("Решение отсутствует.")
-                      }
-                    }
-
-                    println("Текущая доска:")
-                    gameService.getCurrentPuzzle.foreach(_.prettyPrint())
+                    handleCellInput(row, col, value)
                   }
-                } else {
-                  println("Координаты или значение вне допустимого диапазона.")
-                }
-              } catch {
-                case _: NumberFormatException =>
+
+                case None =>
                   println("Ошибка ввода. Убедитесь, что ввели три числа или 'exit'.")
               }
             }
           }
-        }
-
-      case None =>
-        println("Сначала нужно сгенерировать головоломку.")
     }
   }
 
+  private def parseInput(parts: Array[String]): Option[(Int, Int, Int)] =
+    Try {
+      val Array(rStr, cStr, vStr) = parts
+      (rStr.toInt - 1, cStr.toInt - 1, vStr.toInt)
+    }.toOption
 
+  private def inBounds(row: Int, col: Int, value: Int): Boolean =
+    row >= 0 && row < 9 && col >= 0 && col < 9 && value >= 0 && value <= 9
 
+  private def handleCellInput(row: Int, col: Int, value: Int): Unit = {
+    if (value == 0) {
+      if (gameService.updateUserCell(row, col, 0)) println("Значение удалено.")
+    } else {
+      gameService.getCurrentSolution match {
+        case Some(solution) =>
+          solution.get(row, col) match {
+            case Filled(expectedValue) if value == expectedValue =>
+              if (gameService.updateUserCell(row, col, value)) println("Значение записано.")
+            case Filled(_) =>
+              println("Неверное значение!")
+            case Empty =>
+              println("Ошибка: в решении эта клетка пуста.")
+          }
+        case None =>
+          println("Решение отсутствует.")
+      }
+    }
 
+    println("Текущая доска:")
+    gameService.getCurrentPuzzle.foreach(_.prettyPrint())
+  }
 }
+

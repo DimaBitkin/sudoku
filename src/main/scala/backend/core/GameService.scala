@@ -5,20 +5,40 @@ import backend.core.{PuzzleGenerator, Solver}
 
 class GameService {
 
+  // Текущая доска (в процессе игры)
   private var currentPuzzle: Option[Board] = None
+
+  // Решение текущей головоломки
   private var currentSolution: Option[Board] = None
+
+  // Уровень сложности (по умолчанию medium)
   private var difficulty: String = "medium"
+
+  // Исходная (начальная) головоломка — нужна для определения, какие клетки можно изменять
   private var initialPuzzle: Option[Board] = None
 
 
+  /* Установить уровень сложности для следующей головоломки.
+    * 
+    * @param level Строка, содержащая один из вариантов: "easy", "medium", "hard".
+    *              Если введено что-то другое — используется "medium" по умолчанию.
+    */
   def setDifficulty(level: String): Unit = {
     difficulty = level.toLowerCase match {
       case "easy" | "medium" | "hard" => level.toLowerCase
-      case _ => "medium"
+      case _                          => "medium"
     }
   }
 
-  /** Генерация новой головоломки */
+  /* Сгенерировать новую головоломку согласно текущему уровню сложности.
+    *
+    * Сохраняет:
+    * - текущую головоломку (`currentPuzzle`)
+    * - начальную версию (`initialPuzzle`)
+    * - решение (`currentSolution`), если оно существует.
+    * 
+    * @return `Some(board)` если генерация успешна, иначе `None`
+    */
   def generateNewPuzzle(): Option[Board] = {
     
     val puzzleOpt = PuzzleGenerator.generatePuzzle(difficulty)
@@ -34,12 +54,23 @@ class GameService {
   /** Получить решение текущей головоломки */
   def getCurrentSolution: Option[Board] = currentSolution
 
+
+  /* Установить доску вручную (например, для тестов).
+    *
+    * @param board Доска, которая становится текущей.
+    */
   def setCurrentPuzzle(board: Board): Unit = {
   currentPuzzle = Some(board)
   }
 
 
-  /** Проверить пользовательское решение */
+  /* Проверить правильность пользовательского решения.
+    *
+    * @param userBoard Доска, введённая пользователем.
+    * @return true, если:
+    *         - доска корректна по правилам судоку (без дубликатов)
+    *         - совпадает с предварительно вычисленным решением
+    */
   def checkUserSolution(userBoard: Board): Boolean = {
     if (!isValidBoard(userBoard)) return false
     // Проверяем, что пользовательское решение совпадает с решением
@@ -48,8 +79,12 @@ class GameService {
       case None => false
     }
   }
-
-  /** Валидация доски на корректность по правилам судоку */
+  /* Проверка доски на соответствие правилам судоку:
+    * - в каждой строке, столбце и 3x3-блоке нет повторяющихся чисел (кроме нулей).
+    *
+    * @param board Доска для валидации.
+    * @return true, если доска допустима.
+    */
   private def isValidBoard(board: Board): Boolean = {
     val size = board.size
 
@@ -108,6 +143,13 @@ class GameService {
     }
   }
 
+  /* Обновить значение клетки, введённое пользователем.
+    *
+    * @param row Номер строки (0–8).
+    * @param col Номер столбца (0–8).
+    * @param value Значение от 1 до 9, или 0 для удаления.
+    * @return true, если обновление успешно.
+    */
   def updateUserCell(row: Int, col: Int, value: Int): Boolean = {
     if (!isCellEditable(row, col) || currentPuzzle.isEmpty) return false
 
@@ -115,6 +157,4 @@ class GameService {
     currentPuzzle = currentPuzzle.map(_.updated(row, col, newCell))
     true
   }
-
-
 }
