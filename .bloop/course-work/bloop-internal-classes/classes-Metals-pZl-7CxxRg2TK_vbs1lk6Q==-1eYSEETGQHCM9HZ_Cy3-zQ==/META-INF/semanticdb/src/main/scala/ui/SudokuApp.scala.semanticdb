@@ -1,0 +1,9 @@
+
+Ê!src/main/scala/ui/SudokuApp.scala2
+ 
+ui/:ï
+ 
+æNo class, trait or object is defined in the compilation unit.
+The incremental compiler cannot record the dependency information in such case.
+Some errors like unused import referring to a non-existent class might not be reported.
+PZ CB5B761184F281D0FA3D36711D984317

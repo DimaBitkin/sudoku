@@ -1,5 +1,4 @@
 package backend.core
-
 import backend.model._
 
 object Validator {

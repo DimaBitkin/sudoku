@@ -5744,3 +5744,203 @@ WARNING: Unmatched cancel notification for request id 3142
 мая 26, 2025 11:27:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2025.05.26 11:27:33 INFO  compiling course-work (1 scala source)
+2025.05.26 11:27:33 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.26 11:27:33 INFO  time: compiled course-work in 0.29s
+2025.05.26 11:28:15 INFO  Shutting down server
+2025.05.26 11:28:15 INFO  shutting down Metals
+2025.05.26 11:28:15 INFO  Shut down connection with build server.
+2025.05.26 11:28:15 INFO  Shut down connection with build server.
+2025.05.26 11:28:15 INFO  Shut down connection with build server.
+2025.05.26 11:28:15 INFO  Exiting server
+2025.05.27 19:34:53 INFO  Started: Metals version 1.5.3 in folders 'C:\Users\dima-\OneDrive\Desktop\course-work\course-work' for client Visual Studio Code 1.100.2.
+2025.05.27 19:34:53 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\src\main\scala\backend\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.27 19:34:55 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\src\main\scala\backend\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.27 19:34:55 INFO  Attempting to connect to the build server...
+2025.05.27 19:34:55 INFO  No running Bloop server found, starting one.
+2025.05.27 19:34:56 INFO  Starting compilation server
+2025.05.27 19:34:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.27 19:34:58 INFO  Attempting to connect to the build server...
+2025.05.27 19:34:58 INFO  Found a Bloop server running
+2025.05.27 19:34:58 INFO  Attempting to connect to the build server...
+2025.05.27 19:34:58 INFO  Found a Bloop server running
+2025.05.27 19:34:58 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\project\project\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.27 19:34:58 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\project\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.27 19:34:58 INFO  time: Connected to build server in 3.04s
+2025.05.27 19:34:58 INFO  Connected to Build server: Bloop v2.0.10
+мая 27, 2025 7:34:58 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 27, 2025 7:34:58 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 27, 2025 7:34:58 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 27, 2025 7:34:58 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 27, 2025 7:34:58 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+2025.05.27 19:34:58 INFO  time: Imported build in 0.12s
+2025.05.27 19:35:03 INFO  time: indexed workspace in 4.78s
+2025.05.27 19:35:03 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.27 19:35:03 INFO  BSP server: No class, trait or object is defined in the compilation unit.
+The incremental compiler cannot record the dependency information in such case.
+Some errors like unused import referring to a non-existent class might not be reported.
+
+мая 27, 2025 7:38:33 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_19-42-18-641.md)
+мая 27, 2025 7:38:33 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_19-42-18-641.md)
+2025.05.27 19:43:40 INFO  Shutting down server
+2025.05.27 19:43:40 INFO  shutting down Metals
+2025.05.27 19:43:40 INFO  Shut down connection with build server.
+2025.05.27 19:43:40 INFO  Shut down connection with build server.
+2025.05.27 19:43:40 INFO  Shut down connection with build server.
+2025.05.27 19:43:40 INFO  Exiting server
+2025.05.28 11:26:05 INFO  Started: Metals version 1.5.3 in folders 'C:\Users\dima-\OneDrive\Desktop\course-work\course-work' for client Visual Studio Code 1.100.2.
+2025.05.28 11:26:06 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\src\main\scala\backend\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.28 11:26:07 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\src\main\scala\backend\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.28 11:26:08 INFO  Attempting to connect to the build server...
+2025.05.28 11:26:08 INFO  No running Bloop server found, starting one.
+2025.05.28 11:26:09 INFO  Starting compilation server
+2025.05.28 11:26:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.28 11:26:11 INFO  Attempting to connect to the build server...
+2025.05.28 11:26:11 INFO  Found a Bloop server running
+2025.05.28 11:26:11 INFO  Attempting to connect to the build server...
+2025.05.28 11:26:11 INFO  Found a Bloop server running
+2025.05.28 11:26:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\project\project\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.28 11:26:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\project\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.28 11:26:11 INFO  time: Connected to build server in 3.86s
+2025.05.28 11:26:11 INFO  Connected to Build server: Bloop v2.0.10
+мая 28, 2025 11:26:12 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 28, 2025 11:26:12 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 28, 2025 11:26:12 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 28, 2025 11:26:12 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 28, 2025 11:26:12 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+2025.05.28 11:26:12 INFO  time: Imported build in 0.2s
+2025.05.28 11:26:17 INFO  time: indexed workspace in 5.11s
+2025.05.28 11:26:17 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.28 11:26:17 INFO  BSP server: No class, trait or object is defined in the compilation unit.
+The incremental compiler cannot record the dependency information in such case.
+Some errors like unused import referring to a non-existent class might not be reported.
+
+2025.05.28 11:29:55 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 11:29:55 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 11:29:55 WARN  no build target for: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt
+2025.05.28 11:29:56 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 11:29:56 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 11:29:55 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 11:29:57 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 11:39:35 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+мая 28, 2025 11:58:36 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_16-09-38-023.md)
+мая 28, 2025 11:59:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 907
+мая 28, 2025 12:00:07 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_16-09-38-023.md)
+мая 28, 2025 12:00:14 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_16-09-38-023.md)
+мая 28, 2025 12:00:14 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_16-09-38-023.md)
+мая 28, 2025 12:00:14 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-23\r_empty-definition_(course-work)_16-09-38-023.md)
+2025.05.28 12:05:47 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:05:47 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:05:47 WARN  no build target for: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt
+2025.05.28 12:05:47 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:05:47 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:05:47 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:05:47 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:05:55 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:05:55 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:05:56 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:40 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:40 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:40 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:40 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:40 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:41 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:41 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:42 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:42 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:43 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:43 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:43 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:43 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:43 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:43 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:44 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:44 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:46 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:46 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:46 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:46 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+мая 28, 2025 12:06:46 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc:  (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\metals-full\2025-05-22\r_empty-definition_(course-work-build)_11-23-42-648.md)
+2025.05.28 12:06:49 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\course-work\course-work\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:50 INFO  Shutting down server
+2025.05.28 12:06:50 INFO  shutting down Metals
+2025.05.28 12:06:50 INFO  Shut down connection with build server.
+2025.05.28 12:06:50 INFO  Shut down connection with build server.
+2025.05.28 12:06:50 INFO  Shut down connection with build server.
+2025.05.28 12:06:50 INFO  Exiting server
+2025.05.28 12:33:56 INFO  Started: Metals version 1.5.3 in folders 'C:\Users\dima-\OneDrive\Desktop\sbt_test, C:\Users\dima-\OneDrive\Desktop\course-work\course-work' for client Visual Studio Code 1.100.2.
+2025.05.28 12:33:58 INFO  Database: jdbc:h2:file:C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\metals (H2 2.3)
+2025.05.28 12:33:58 INFO  Database: jdbc:h2:file:C:\Users\dima-\OneDrive\Desktop\sbt_test\.metals\metals (H2 2.3)
+2025.05.28 12:33:58 INFO  Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+2025.05.28 12:33:58 INFO  Successfully validated 6 migrations (execution time 00:00.037s)
+2025.05.28 12:33:58 INFO  Successfully validated 6 migrations (execution time 00:00.053s)
+2025.05.28 12:33:58 INFO  Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+2025.05.28 12:33:58 INFO  Current version of schema "PUBLIC": 6
+2025.05.28 12:33:58 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.05.28 12:33:58 INFO  Current version of schema "PUBLIC": << Empty Schema >>
+2025.05.28 12:33:58 INFO  Migrating schema "PUBLIC" to version "1 - Create tables"
+2025.05.28 12:33:58 INFO  Migrating schema "PUBLIC" to version "2 - Server discovery"
+2025.05.28 12:33:58 INFO  Migrating schema "PUBLIC" to version "3 - Jar symbols"
+2025.05.28 12:33:58 INFO  Migrating schema "PUBLIC" to version "4 - Fingerprints"
+2025.05.28 12:33:58 INFO  Migrating schema "PUBLIC" to version "5 - Jar type hierarchy"
+2025.05.28 12:33:58 INFO  Migrating schema "PUBLIC" to version "6 - Delete indices"
+2025.05.28 12:33:58 INFO  Successfully applied 6 migrations to schema "PUBLIC", now at version v6 (execution time 00:00.080s)
+2025.05.28 12:33:58 INFO  Attempting to connect to the build server...
+2025.05.28 12:33:58 INFO  No running Bloop server found, starting one.
+2025.05.28 12:34:01 INFO  Starting compilation server
+2025.05.28 12:34:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.28 12:34:04 INFO  Attempting to connect to the build server...
+2025.05.28 12:34:04 INFO  Found a Bloop server running
+2025.05.28 12:34:04 INFO  Attempting to connect to the build server...
+2025.05.28 12:34:04 INFO  Found a Bloop server running
+2025.05.28 12:34:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\project\project\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.28 12:34:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\course-work\course-work\project\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.28 12:34:05 INFO  time: Connected to build server in 6.43s
+2025.05.28 12:34:05 INFO  Connected to Build server: Bloop v2.0.10
+мая 28, 2025 12:34:05 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 28, 2025 12:34:05 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 28, 2025 12:34:05 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 28, 2025 12:34:05 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+мая 28, 2025 12:34:05 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\dima-\OneDrive\Desktop\course-work\course-work\.metals\.reports\bloop\2025-05-22\r_Empty build targets...._11-47-32-940.md)
+2025.05.28 12:34:05 INFO  time: Imported build in 0.23s
+2025.05.28 12:34:09 INFO  Database: jdbc:h2:file:C:\Users\dima-\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.05.28 12:34:09 INFO  Successfully validated 1 migration (execution time 00:00.002s)
+2025.05.28 12:34:09 INFO  Current version of schema "PUBLIC": 1
+2025.05.28 12:34:09 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.05.28 12:34:12 INFO  time: indexed workspace in 6.59s
+2025.05.28 12:34:42 WARN  Invalid text document uri received from build server: file:///C:/Users/dima-/OneDrive/Desktop/course-work/course-work/src/main/scala/ui/SudokuApp.scala
+2025.05.28 12:34:42 INFO  BSP server: No class, trait or object is defined in the compilation unit.
+The incremental compiler cannot record the dependency information in such case.
+Some errors like unused import referring to a non-existent class might not be reported.
+
+мая 28, 2025 12:37:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.05.28 12:37:02 INFO  Shut down connection with build server.
+2025.05.28 12:37:02 INFO  Shut down connection with build server.
+2025.05.28 12:37:02 INFO  Shut down connection with build server.
+2025.05.28 12:37:02 INFO  logging to files C:\Users\dima-\OneDrive\Desktop\sbt_test\.metals\metals.log
+мая 28, 2025 12:39:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 99
